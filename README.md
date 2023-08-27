@@ -8,7 +8,7 @@ Visit my portfolio website [here](https://arshdeeps1ngh.github.io/better_portfol
 
 ## Preview
 
-![Portfolio Website Preview](screenshots/portfolio-preview.png)
+![Portfolio Website Preview](portfolio-preview.png)
 
 ## Features
 
