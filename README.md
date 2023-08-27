@@ -23,14 +23,3 @@ Visit my portfolio website [here](https://arshdeeps1ngh.github.io/better_portfol
 - CSS
 - JavaScript
 
-## Screenshots
-
-![Portfolio Screenshot 1](screenshots/screenshot1.png)
-![Portfolio Screenshot 2](screenshots/screenshot2.png)
-
-## Getting Started
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/portfolio-website.git
